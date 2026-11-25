@@ -1,10 +1,15 @@
 <img src="title.svg" width="100%" alt="Styled Header" >
 
-This is fake. It was introduced on Movavi IT Fest 2026.
+This is a fake.
 
 Shop of EveryThing (SET) is a good marketplace of everything. Only high-quality products directly from manufacturers.
 
 Enjoy my beautiful and great marketplace.
+
+The SET is uploaded on:
+
+https://set-60yn.onrender.com/
+https://set.86base.online/
 
 # VERSION
 
